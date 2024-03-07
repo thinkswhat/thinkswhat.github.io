@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Jianqi Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Also can call me Lucky, from my Chinese name Qi"
+  bio              : "Also can call me Lucky, from my Chinese name 祺"
   location         : "Hangzhou, Zhejiang, China"
   employer         : "China Jiliang University"
   uri              : # URL
@@ -42,7 +42,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "thinkswhat"
-  kaggle           : "Lucky Young"
+  kaggle           : "luckyyoung"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
