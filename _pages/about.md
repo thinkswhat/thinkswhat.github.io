@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-aa
+AAA
+
+你好，我的名字是杨建祺，很荣幸见到你！我的研究兴趣主要集中于数据科学的跨学科应用，比如大气科学中观测数据的同化，用于发现潜在污染源的数据挖掘算法等。我同时也在从事Data Learning相关的研究
 
 My work and research
 ======
