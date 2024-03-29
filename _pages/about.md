@@ -4,18 +4,29 @@ title: "About"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /Hello.html
 ---
 
-AAA
+Hello and welcome to my homepage! My name is Jianqi Yang,in Chinese, it's 杨建祺.
+
+I am going to get an undergraduate degree in Industrial Engineering, but I actually have a broad background in Mathematics and Statistics, Mechanical and Electrical Engineering and Environmental Science. Currently, my research interests are focussed on the application of data science and its related methods to atmospheric science, in particular machine learning and data assimilation techniques. I am also interested in other concepts derived from this, such as AI4Scinece and Data Learning.
+
+I am currently seeking a PhD opportunity to formally enter the field of atmospheric science and to use my skills in data science and computer technology to further advance atmospheric science, particularly in numerical weather prediction, for the betterment of the community.
 
 My work and research
 ======
 
 Interests
-· Aa
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content 
+- Atmospheric science
+- AI4Science, especially in atmospheric sciences
+- Data Science and Statistics, especially Data Learning
+
+Why atmospheric science?
+------
+In fact, I did not enter the field of atmospheric science at the very beginning of my university career. My knowledge and interest in the field really came about as a result of my academic life and childhood experiences throughout my undergraduate studies.
+
+Importantly, the framework methodology will span purely physics-driven, CFD-mediated solutions at one extreme, and data-centric solutions at the other where the complexity of the phenomena masks the underlying physics.
 
 My background and history
 ======
@@ -25,11 +36,10 @@ My intellectual communities
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+Something about me
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+我的人生就是在另一个有着这样的夕阳的午后确定的。
 
 **Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+created [a set of Jupyter notebooks(https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator) 
