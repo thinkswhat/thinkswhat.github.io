@@ -1,18 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "zh-CN"
 title                    : "Jianqi Yang"
 title_separator          : "-"
 name                     : &name "Jianqi Yang"
 description              : &description "personal description"
-url                      : https://thinkswhat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thinkswhat.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thinkswhat/thinkswhat.github.io"
 
@@ -35,7 +27,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0006-4008-6197"
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jianqi-Yang-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
