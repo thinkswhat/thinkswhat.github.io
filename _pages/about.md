@@ -15,9 +15,9 @@ My work and research
 ======
 Interests
 
-- Meteorology
-- AI4Science
-- Statistics and Machine Learning
+- Statistics, Data Science and Machine Learning, etc
+- AI4Science, especially in Atmospheric Science
+- Interaction of scientific and technological development with society and the environment
 
 Current research priorities
 ------
