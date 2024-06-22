@@ -5,9 +5,9 @@ permalink: /posts/2012/08/blog-post-demo/
 tags:
   - Demo
 ---
+## 
 
-Headings are cool
-=====
+
 
 ## You can have many headings
 
