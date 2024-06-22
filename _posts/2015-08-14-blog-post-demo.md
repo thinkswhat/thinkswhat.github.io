@@ -5,11 +5,12 @@ permalink: /posts/2012/08/blog-post-demo/
 tags:
   - Demo
 ---
-## Headings are cool
 
+
+
+
+## Headings are cool
 
 ## You can have many headings
 
-
 ### Aren't headings cool?
-
