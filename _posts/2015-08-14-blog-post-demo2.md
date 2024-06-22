@@ -5,9 +5,7 @@ permalink: /posts/2012/08/blog-post-demo/
 tags:
   - Demo
 ---
-## 
-
-
+<br>
 
 ## You can have many headings
 
