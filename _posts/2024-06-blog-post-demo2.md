@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post Demo'
 date: 2024-4-14
-permalink: /posts/2024/06/blog-post-demo/
+permalink: /posts/blog-post-demo/
 tags:
   - Meteorology
   - Data Analysis
