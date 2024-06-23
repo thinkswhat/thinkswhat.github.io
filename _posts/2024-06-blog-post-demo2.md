@@ -1,9 +1,10 @@
 ---
 title: 'Blog Post Demo'
 date: 2024-4-14
-permalink: /posts/2012/08/blog-post-demo/
+permalink: /posts/2024/06/blog-post-demo/
 tags:
-  - Demo
+  - Meteorology
+  - Data Analysis
 ---
 <br>
 
