@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/LaTeX
 venue: "College of Quality & Safety Engineering, China Jiliang University"
-date: 2024-09-13
+date: 2023-09-13
 location: "Hangzhou, Zhejiang"
 ---
 
