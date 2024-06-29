@@ -4,11 +4,11 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/LaTeX
 venue: "College of Quality & Safety Engineering, China Jiliang University"
-date: 2023-10-15
+date: 2024-09-13
 location: "Hangzhou, Zhejiang"
 ---
 
-This workshop introduces LaTeX workflows and gives a case study using the Springer Nature and NeurIPS 2024 template.
+This workshop introduces LaTeX workflows and gives a case study using the Elsevier and NeurIPS 2024 template.
 
 ## 
 
