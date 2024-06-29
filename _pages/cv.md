@@ -20,12 +20,12 @@ Education
 Research experience
 ------
 * Jun 2023 - Feb 2024: Undergraduate Research Assistant
-  * College of Quality & Safety Engineering, China Jiliang University
-  * Duties includes: Development of algorithm prototypes, code checking
+  * Intelligent Monitoring and Traceability Laboratory, College of Quality & Safety Engineering, China Jiliang University
+  * Duties includes: Data Cleaning and Exploratory Data Analysis, Algorithm Prototyping, Machine Learning Model Design, Simulation
   * Supervisor: Dr. Tao Ding
 
 * Feb 2024 - Jun 2024: Undergraduate Research Assistant
-  * School of Engineering, Westlake University
+  * ACCESS Lab, School of Engineering, Westlake University
   * Duties includes: Development of algorithm prototypes, code checking
   * Supervisor: Dr. Yuzhong Zhang
 
