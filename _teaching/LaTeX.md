@@ -10,6 +10,8 @@ location: "Hangzhou, Zhejiang"
 
 This workshop introduces LaTeX workflows and gives a case study using the Elsevier and NeurIPS 2024 template.
 
+<br>
+
 ## 
 
 ## Supplementary Material
