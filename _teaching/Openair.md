@@ -10,6 +10,8 @@ location: "Hangzhou"
 
 This workshop provides a set of case studies for visualising air pollution data based on R Markdown, with the main aim of providing a set of out-of-the-box exploratory data analysis toolkits for students with weak programming backgrounds.
 
+<br>
+
 This workshop is based on the open source R package *Openair*, here is the package's official website: [openair: open source tools for air quality data analysis](https://davidcarslaw.github.io/openair).
 
 ## Heading 1
