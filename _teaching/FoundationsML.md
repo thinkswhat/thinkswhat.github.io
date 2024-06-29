@@ -8,8 +8,9 @@ date: 2023-11-02
 location: "Hangzhou, China"
 ---
 
-
+This workshop introduces basic machine learning frameworks and models, is a complement to talk [*Foundations of Machine Learning*](https://thinkswhat.github.io/talks/FoundationsML).
 
 ## Heading 1
 
 ## Heading 2
+
