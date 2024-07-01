@@ -8,15 +8,16 @@ date: 2024-03-21
 location: "Hangzhou"
 ---
 
-This workshop provides a set of case studies for visualising air pollution data based on R Markdown, with the main aim of providing a set of out-of-the-box exploratory data analysis toolkits for students with weak programming backgrounds.
+This workshop provides a set of examples for visualising air pollution data based on R Markdown, with the main aim of providing a set of out-of-the-box exploratory data analysis toolkits for students with weak programming backgrounds. The source file can be found [here](https://github.com/thinkswhat/thinkswhat.github.io/tree/main/Materials/Workshops/Openair).
 
 <br>
 
 This workshop is based on the open source R package *Openair*, here is the package's official website: [openair: open source tools for air quality data analysis](https://davidcarslaw.github.io/openair).
 
-## Heading 1
-
 ## About *Openair*
+
+**openair** is an R package developed for the purpose of analysing air quality data — or more generally atmospheric composition data. The package is extensively used in academia, the public and private sectors. The project was initially funded by the UK Natural Environment Research Council (NERC), with additional funds from Defra.
+
 ### Citation
 Carslaw, D. C., and K. Ropkins. 2012. “openair — An R package for air quality data analysis.” Environmental Modelling & Software 27–28 (0): 52–61. https://doi.org/10.1016/j.envsoft.2011.09.008.
 
