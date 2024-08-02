@@ -7,10 +7,8 @@ venue: "College of Quality & Safety Engineering, China Jiliang University"
 date: 2024-03-21
 location: "Hangzhou"
 ---
-
-This workshop provides a set of examples for visualising air pollution data based on R Markdown, with the main aim of providing a set of out-of-the-box exploratory data analysis toolkits for students with weak programming backgrounds. The source file can be found [here](https://github.com/thinkswhat/thinkswhat.github.io/tree/main/Materials/Workshops/Openair).
-
 <br>
+This workshop provides a set of examples for visualising air pollution data based on R Markdown, with the main aim of providing a set of out-of-the-box exploratory data analysis toolkits for students with weak programming backgrounds. The source file can be found [here](https://github.com/thinkswhat/thinkswhat.github.io/tree/main/Materials/Workshops/Openair).
 
 This workshop is based on the open source R package *Openair*, here is the package's official website: [openair: open source tools for air quality data analysis](https://davidcarslaw.github.io/openair).
 
