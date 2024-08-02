@@ -12,7 +12,7 @@ This workshop provides a set of examples for visualising air pollution data base
 
 This workshop is based on the open source R package *Openair*, here is the package's official website: [openair: open source tools for air quality data analysis](https://davidcarslaw.github.io/openair).
 
-About Openair
+About *Openair*
 ======
 
 **openair** is an R package developed for the purpose of analysing air quality data — or more generally atmospheric composition data. The package is extensively used in academia, the public and private sectors. The project was initially funded by the UK Natural Environment Research Council (NERC), with additional funds from Defra.
