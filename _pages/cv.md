@@ -15,7 +15,7 @@ Education
 * Ph.D in Version Control Theory, University of Reading, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 -->
-* B.S. in Quality Management Engineering, China Jiliang University, 2025
+* B.S. in Quality Management Engineering, China Jiliang University, 2025 (expected)
 
 Research experience
 ------
@@ -24,17 +24,15 @@ Research experience
   * Duties includes: Data Cleaning and Exploratory Data Analysis, Algorithm Prototyping, Machine Learning Model Design, Simulation
   * Supervisor: Dr. Tao Ding
 
-* Feb 2024 - Jun 2024: Undergraduate Research Assistant
+* Feb 2024 - Jul 2024: Undergraduate Research Assistant
   * [ACCESS Lab](https://atmosphere-westlake.com/research.html), School of Engineering, Westlake University
   * Duties includes: Development of algorithm prototypes, code checking
   * Supervisor: Dr. Yuzhong Zhang
 
-<!--
-* Sep 2024 - Feb 2025: Visiting student
+* Aug 2024 - Feb 2025: Visiting student
   * [ACCESS Lab](https://atmosphere-westlake.com/research.html), School of Engineering, Westlake University
   * Duties included: Development of algorithm prototypes, data analysis
   * Supervisor: Dr. Yuzhong Zhang
--->
 
 Skills
 ------
