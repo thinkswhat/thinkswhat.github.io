@@ -8,7 +8,7 @@ date: 2023-09-13
 location: "Hangzhou, Zhejiang"
 ---
 
-This workshop introduces LaTeX workflows and gives a case study using the Elsevier and NeurIPS 2024 template.
+This workshop introduces LaTeX workflows and gives a case study using the Elsevier and AAAI 2025 template.
 
 <br>
 
