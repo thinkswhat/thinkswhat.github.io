@@ -34,7 +34,7 @@ Atmospheric science has an irreplaceable role to play in saving lives, avoiding 
 
 My background and history
 ======
-If you are curious about why I abandoned my research on multi-agent algorithms for UAVs, it is because I indeed recognized the potential for these technologies to be used in warfare.
+The first research group I joined focused on developing control algorithms for application in UAVs, as you can ascertain from my publication record. Given the extensive use of UAV technology in warfare, I have decided to partially withdraw from this field. I will continue to explore how to better utilise Earth System Observations to gain deeper insights into the environment we inhabit daily. However, I will not be involved in developing anything that could be employed to locate a target and crash into it, even if that target is a source of pollutant gas emissions.
 
 My intellectual communities
 ======
