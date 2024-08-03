@@ -8,7 +8,7 @@ date: 2023-07-21
 location: "Hangzhou, Zhejiang"
 ---
 
-This workshop introduces LaTeX workflows and gives a case study using the Elsevier template. This repository is used as a record.
+This workshop introduces LaTeX workflows and gives a case study using the Elsevier template. This repository is used as a record, and [here](https://github.com/thinkswhat/Main/tree/main/TeX/Template/CJLU) is a set of reporting templates for CJLU.
 
 Supplementary Material
 ======
