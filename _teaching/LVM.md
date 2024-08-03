@@ -8,15 +8,23 @@ date: 2023-11-18
 location: "Hangzhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The workshop actually consists of three parts, a brief introduction to the concepts, a hands-on installation of Linux, and a VMware-based Linux experience. Slides are here.
 
 What is Linux?
 ======
 
-testing
+
+
+Installing Linux
+======
+
+Virtual Machines
+-----
+
+
 
 WSL
 -----
 
-Virtual Machines
+enjoy a brief taste
 ======
