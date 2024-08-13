@@ -57,9 +57,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Service and leadership
+Editorial
 ------
-I have organized a series of workshops aimed at helping lower-year undergraduates and graduate students from diverse backgrounds (e.g., those from 'pure' environmental engineering programs lacking technical skills) to learn programming and data science skills, as well as receive fundamental academic writing training. Additionally, I have served as a principal investigator or core member of several undergraduate research projects, some of which have received competitive national funding.
 
 * I am a peer reviewer for the following journals:
   * [Robotica](https://www.cambridge.org/core/journals/robotica)
+
+Service and leadership
+------
+I have organized a series of workshops aimed at helping lower-year undergraduates and graduate students from diverse backgrounds (e.g., those from 'pure' environmental engineering programs lacking technical skills) to learn programming and data science skills, as well as receive fundamental academic writing training. Additionally, I have served as a principal investigator or core member of several undergraduate research projects, some of which have received competitive national funding.
