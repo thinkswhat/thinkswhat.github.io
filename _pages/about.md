@@ -9,9 +9,9 @@ redirect_from:
 
 Hello and welcome to my homepage! My name is Jianqi Yang, 杨建祺 in Chinese.
 
-I am currently conducting research as a visiting student in the [ACCESS Lab](https://atmosphere-westlake.com/research.html) at [Westlake University](https://en.westlake.edu.cn), where my main focus is on various types of analytical and predictive models based on Earth system observations, including mechanism-based, data-driven, and incorporating techniques such as data assimilation - in order to find sources of pollutant emissions at the city level using automobile voyage data. I am also looking for PhD opportunities to find my real niche at the intersection of data science and earth system science.
 
-I am going to get my undergraduate degree in Industrial Engineering, but I actually have a broad background in Data Science, Engineering and Environmental Science. I completed a series of research projects during my undergraduate studies - mainly based on data science and optimisation theory - and discovered my interest in atmospheric science and computer science. Currently, my interests are focused on the intersection of data science and atmospheric science, including the use of machine learning and other novel data science methods for analysing atmospheric observation data, and re-inventing techniques such as data assimilation, which are commonly used in the field of atmospheric science. These crossovers have given birth to a lot of very interesting new theories, such as AI4Science and Data Learning, and I've already seen them garnering attention within the broader field of research.
+
+
 
 My work and research
 ======
