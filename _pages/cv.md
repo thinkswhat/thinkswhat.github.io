@@ -65,4 +65,7 @@ Editorial
 
 Service and Collaboration
 ------
-I have organized a series of workshops aimed at helping lower-year undergraduates and graduate students from diverse backgrounds (e.g., those from 'pure' environmental engineering programs lacking technical skills) to learn programming and data science skills, as well as receive fundamental academic writing training. Additionally, I have served as a principal investigator or core member of several undergraduate research projects, some of which have received competitive national funding.
+
+I have contributed to student groups and academic activities in various capacities. I have mentored junior undergraduates in several student societies, covering fields such as computer technology, electronic engineering, and research methodologies. Additionally, I organised a series of workshops within my research group, aimed at equipping postgraduate students from less quantitatively rigorous backgrounds with programming and data science skills, and providing training in LaTeX-based academic writing.
+
+I have served as either the lead or a core member in several undergraduate research projects, some of which have secured competitive national funding. These research initiatives include the development of UAV control algorithms, fluid simulation and gas diffusion predictive models, and post-processing algorithms for incomplete and unbalanced Earth system observation data. These projects are part of a broader research endeavour, the ultimate goal of which is to develop a suite of machine learning and data assimilation methods to fully exploit Earth system observation data from various sources, enabling multi-scale and multi-modal analysis and prediction of this complex system.
