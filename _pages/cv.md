@@ -34,15 +34,10 @@ Research experience
   * Duties included: Development of algorithm prototypes, data analysis
   * Supervisor: Dr. Yuzhong Zhang
 
-Skills
+<!--
+Awards
 ------
-* Data analysis
-* Environmental modelling
-* Programming
-  * Python
-  * R
-  * Matlab
-  * Julia
+-->
 
 Publications
 ------
