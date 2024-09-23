@@ -18,7 +18,7 @@ This work is part of the work of the research group and we aim to explore many i
 4. Could higher resolution observations have unintended effects, e.g. for new scientific discoveries, or for training specific macromodels/simulation models? Could more small-scale source discovery and emission inventorying be done directly?
 5. Will different ecological environments, e.g., cities, farmland, wetlands, have different emission patterns, not only in terms of source share, but also in terms of spatial and modal distribution of sources? And how can this information be used in Earth system modelling?
 
-I am actively seeking PhD opportunities to take the next step in this exciting field, which both pushes the boundaries of human knowledge and applies new technologies for the benefit of humanity.
+I am actively seeking opportunities to pursue a PhD. I have a particular interest in the intersection of data science and atmospheric science. On one hand, data science methods such as machine learning have been applied to fundamental and critical issues in atmospheric science, including computational fluid dynamics and numerical weather forecasting. On the other hand, techniques like data assimilation are helping us to re-evaluate essential components of data science, such as machine learning and deep learning, which are grounded in Bayesian theory. I'm sure I'll find something very interesting here!
 
 My work and research
 ======
@@ -27,16 +27,16 @@ A more detailed account can be found in my [CV](https://thinkswhat.github.io/cv)
 
 Works
 
-- Design and Construction of Fluid Mechanics Simulation Models
-- Design and development of UAV control algorithms for search and measurement of gaseous pollutants
-- Processing of Earth system observation data
-- Regional atmospheric modelling and simulation based on Vehicle data
+- Designed a UAV control algorithm for conducting searches for sources of pollutant gas emissions
+- Short-lived air pollutant prediction using exploratory data analysis, machine learning and deep learning
+- Exploring transformation patterns among atmospheric pollutants in urban environments using Wavelets Methods
+- Analysing regional methane emissions and patterns using vehicle data
 
 Interests
 
-- Statistics, Data Science and Machine Learning, etc
-- AI4Science, especially in Atmospheric Science
-- Interaction of scientific and technological development with society and the environment
+- Data Science, Signal Processing, Simulation and Soft Computing
+- AI4Science, including Scientific Simulations and Scientific Discovery
+- Earth system science, e.g., impacts of climate change on human health, economic activities and cultural heritage
 
 My background and history
 ======
