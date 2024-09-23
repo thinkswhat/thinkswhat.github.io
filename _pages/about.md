@@ -37,6 +37,7 @@ Interests
 - Data Science, Signal Processing, Simulation and Soft Computing
 - AI4Science, including Scientific Simulations and Scientific Discovery
 - Earth system science, e.g., impacts of climate change on human health, economic activities and cultural heritage
+- Embedded system, like Single-board Computer and Microcontroller Unit
 
 My background and history
 ======
