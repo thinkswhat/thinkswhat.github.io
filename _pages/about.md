@@ -9,6 +9,12 @@ redirect_from:
 
 Hello and welcome to my homepage!
 
+<!--
+我的研究处于数理科学，数据科学和地球系统科学的交叉位置。具体而言，我的研究兴趣包括：以分析、几何和贝叶斯理论为基础的统计方法和机器学习基本理论；以此为基础，结合了机器学习，数据同化和动态系统的新颖数据科学方法，以及这些方法在以大气系统为代表的地球系统领域中的应用，包括基于模拟的预测、科学计算和知识发现。
+
+我致力于结合基于贝叶斯理论的机器学习和数据同化，来自分析学的微分方程和动力系统，以及来自泛函分析的函数型数据分析等新颖数据科学理论。
+-->
+
 My undergraduate education was a mix of data science, mechatronic engineering, and management science, but I realised I wasn't really interested in that. I spent a lot of time learning about data science, computational science and simulation techniques and used them to conduct research in the field of atmospheric science. I am currently conducting research as a visiting student in the [Atmospheric Environment Research Lab](https://atmosphere-westlake.com/research.html) at [Westlake University](https://en.westlake.edu.cn). In my work here, I strive to integrate simulations based on physical models and fluid dynamics with insights derived from real-world observational data. My goal is to enhance both aspects and to design interpretable machine learning models and simulations that are more aligned with practical realities.
 
 This work is part of the work of the research group and we aim to explore many interesting questions:
