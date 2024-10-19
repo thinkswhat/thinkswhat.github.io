@@ -12,7 +12,7 @@ redirect_from:
 Education
 ------
 <!--
-* Ph.D in Version Control Theory, University of Reading, 2018 (expected)
+* Ph.D in Version Control Theory, Github University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 -->
 * B.S. in Quality Management Engineering, China Jiliang University, 2025 (expected)
