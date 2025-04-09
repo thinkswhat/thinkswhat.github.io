@@ -1,0 +1,17 @@
+= Hello
+
+Hello and welcome to my homepage! My name is Jianqi Yang,in Chinese, it's 杨建祺.
+
+Check out my homepage https://thinkswhat.github.io[here].
+
+= Biography
+
+I am going to get an undergraduate degree in Industrial Engineering (the official name is Quality Management Engineering, a branch specific in China), but I actually have a broad background in Mathematics and Statistics, Mechanical and Electrical Engineering and Environmental Science. Currently, my research interests are focussed on the application of data science and its related methods to atmospheric science, in particular machine learning and data assimilation techniques. I am also interested in other concepts derived from this, such as AI4Scinece and Data Learning.
+
+I am currently seeking a PhD opportunity to formally enter the field of atmospheric science and to use my skills in data science and computer technology to further advance atmospheric science, particularly in numerical weather prediction, for the betterment of the community.
+
+== Interests
+
+* Statistics, Data Science and Machine Learning, etc
+* AI4Science, especially in Mathematics, Physics and Atmospheric Sciences
+* Interaction of scientific and technological development with society and the environment
