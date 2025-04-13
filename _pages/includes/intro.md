@@ -1,1 +1,5 @@
-I work at Westlake University <img src='./images/WestlakeU.png' style='width: 6em;'> as a research assistant now in Hangzhou.
+Hello! My name is Jianqi Yang, only ‘Qi’ is my real name, which means ‘Lucky’ in English, so that's my English name too! 
+
+I received my undergraduate education at China Jiliang University in applied mathematics, data science and engineering, but my research experience is much broader, includes environmental science, earth science and general topics in mathematical analysis. I completed my undergraduate studies in just three years, after which I travelled to [Westlake University](https://en.westlake.edu.cn) to visit the [Atmospheric Environment Research Lab](https://atmosphere-westlake.com/research.html) and work as an undergraduate research assistant.
+
+My research interests are in the broad area currently known as Scientific Machine Learning (details of which can be found [here](https://sites.brown.edu/bergen-lab/research/what-is-sciml/) and [here](https://kks32-courses.github.io/sciml/README.html)), but in the main I am most interested in the joint modelling of physical knowledge and data for use in engineering and earth sciences.
